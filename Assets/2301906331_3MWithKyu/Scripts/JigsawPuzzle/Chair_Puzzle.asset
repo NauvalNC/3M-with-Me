@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba2d2a80d09fcd4f897a8a880455f41, type: 3}
+  m_Name: Chair_Puzzle
+  m_EditorClassIdentifier: 
+  jigsawPieces:
+  - {fileID: 21300000, guid: 482b7fa77846d384392ea2dfbf5339a1, type: 3}
+  - {fileID: 21300000, guid: 44bc7ace81d4a24479a86e4aa2d1212b, type: 3}
+  - {fileID: 21300000, guid: 4079fdeca2f7bcf458ec249c460a52da, type: 3}
+  - {fileID: 21300000, guid: 1e41f8ffc3b867c4ebdf059ecac45834, type: 3}
+  - {fileID: 21300000, guid: 2e511e6fd09c7e646b5d6eefbe1644ae, type: 3}
+  - {fileID: 21300000, guid: 5241a8d240a53f2468e2c50d645573ec, type: 3}
+  - {fileID: 21300000, guid: fc5fe5411104b2444bb9ffc932b5f3bb, type: 3}
+  - {fileID: 21300000, guid: 94ee2699816d9534698f8cf8cb6a157d, type: 3}
+  - {fileID: 21300000, guid: 37a8b26be184d3540ae5b1b3314b9ed7, type: 3}
+  - {fileID: 21300000, guid: ab0c00fd3e45a234c8c1820b394c4aa7, type: 3}
+  - {fileID: 21300000, guid: e791e748a8c0d1446834176ab91fe041, type: 3}
+  - {fileID: 21300000, guid: 49dbf884275ecbf43a76da8aed3416ff, type: 3}
+  - {fileID: 21300000, guid: 766d61c8b9481584184635ebd5ad0798, type: 3}
+  - {fileID: 21300000, guid: 496e0d5adea29c94bb329a143eb9376e, type: 3}
+  - {fileID: 21300000, guid: 432bb07e24d06dc42beb2713fe7bdff6, type: 3}
+  - {fileID: 21300000, guid: 467cdee14a5579d42863ed935f34fb58, type: 3}
+  message: Jaga Jarak, Jangan Duduk di Simbol X
+  completedImage: {fileID: 21300000, guid: 3bb07c4604332894ba95a3c81a2d0cea, type: 3}

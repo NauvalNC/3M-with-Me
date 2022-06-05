@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba2d2a80d09fcd4f897a8a880455f41, type: 3}
+  m_Name: Sanitizer_Jigsaw
+  m_EditorClassIdentifier: 
+  jigsawPieces:
+  - {fileID: 21300000, guid: 778ed78132b5e994e8e969c8ca8dc0e0, type: 3}
+  - {fileID: 21300000, guid: d11da19155da8f44288ec8a7d993db15, type: 3}
+  - {fileID: 21300000, guid: f87d3203d4b7ed24f89597289361623f, type: 3}
+  - {fileID: 21300000, guid: 7e2d640ee5b69024ebac86f4fccb0204, type: 3}
+  - {fileID: 21300000, guid: 40e050c8994f7604a93b77324fb65a78, type: 3}
+  - {fileID: 21300000, guid: 10d77146cf7c02448b21fc1b3286ceb9, type: 3}
+  - {fileID: 21300000, guid: 4f5f79cfdf9063248b5f43edcdf27b93, type: 3}
+  - {fileID: 21300000, guid: 2372759e980efec40afe9dc444fb5d6f, type: 3}
+  - {fileID: 21300000, guid: e9d385f372b39cf468bdc1f5bf930fb1, type: 3}
+  - {fileID: 21300000, guid: 64716176ff7206946a66c1ddfb72fdc9, type: 3}
+  - {fileID: 21300000, guid: 10b94a707cd9aa0488aa3ad7fcba7694, type: 3}
+  - {fileID: 21300000, guid: 1f03c89b65009b94dabd138cf0331506, type: 3}
+  - {fileID: 21300000, guid: 90b1e653113f21e4583debc2f37dc8a5, type: 3}
+  - {fileID: 21300000, guid: 82b16e165642c9f4f82a610e32ca6132, type: 3}
+  - {fileID: 21300000, guid: 475a99531a27df043abf77781d1281a9, type: 3}
+  - {fileID: 21300000, guid: 173cca95c416feb488c1c9b100c60d06, type: 3}
+  message: Cuci Tangan Pakai Hand-Sanitizer
+  completedImage: {fileID: 21300000, guid: 0e9111bbc886fc34599663fbfc5742ba, type: 3}

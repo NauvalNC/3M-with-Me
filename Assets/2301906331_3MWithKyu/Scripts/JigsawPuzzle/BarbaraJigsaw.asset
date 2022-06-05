@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba2d2a80d09fcd4f897a8a880455f41, type: 3}
+  m_Name: BarbaraJigsaw
+  m_EditorClassIdentifier: 
+  jigsawPieces:
+  - {fileID: 21300000, guid: caf6c6ccde3825b4e9df15cd1349204e, type: 3}
+  - {fileID: 21300000, guid: 6381040fcb7e0ce4eadf23c3d384f8f4, type: 3}
+  - {fileID: 21300000, guid: 05c0d34698ee1684aa2330f4a448ba92, type: 3}
+  - {fileID: 21300000, guid: 6eee84d813998c44293dc90f982f7d22, type: 3}
+  - {fileID: 21300000, guid: bcf6931ddaa38f5439e81cc5eeae0bbd, type: 3}
+  - {fileID: 21300000, guid: c37c90751c94f3f45ba0db2e99f77ce1, type: 3}
+  - {fileID: 21300000, guid: 31a033b0d191ca642aaab84ba3d4dea3, type: 3}
+  - {fileID: 21300000, guid: fbbebe35663be2c41a456d3463e21b81, type: 3}
+  - {fileID: 21300000, guid: 70b7a60ee7b7f5748a183429fd2ba733, type: 3}
+  - {fileID: 21300000, guid: d9754ad6ca22ffd4c9d9d577afa8482e, type: 3}
+  - {fileID: 21300000, guid: 0a769249dc97f784f9846defbb7872ff, type: 3}
+  - {fileID: 21300000, guid: 443af32778000d943b1f482958481c1f, type: 3}
+  - {fileID: 21300000, guid: 530cc2a1e6911f046904fde4ef38da94, type: 3}
+  - {fileID: 21300000, guid: d9ef3e88044708a4c9c90c4a1c5221e7, type: 3}
+  - {fileID: 21300000, guid: e21bf310ca552c24990d778f69ec7a5e, type: 3}
+  - {fileID: 21300000, guid: 9954c6b6059552440ba0180084612181, type: 3}
+  message: Barbara Wangy!!!
+  completedImage: {fileID: 21300000, guid: 55590b93dffbd1247ba089723ef19f25, type: 3}

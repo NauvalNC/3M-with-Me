@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba2d2a80d09fcd4f897a8a880455f41, type: 3}
+  m_Name: Suhu_Puzzle
+  m_EditorClassIdentifier: 
+  jigsawPieces:
+  - {fileID: 21300000, guid: b229636790d421d44b4b1f1e9b27c691, type: 3}
+  - {fileID: 21300000, guid: 678a984dc6fc9134eb022d6504f28a17, type: 3}
+  - {fileID: 21300000, guid: acf03503bc5f09c4a8d6dcc80d26ecae, type: 3}
+  - {fileID: 21300000, guid: 4e176d9fa6b63314a9e4afc8d0e0b09f, type: 3}
+  - {fileID: 21300000, guid: 903ce1a6bf3b28644ab2c07b713253fa, type: 3}
+  - {fileID: 21300000, guid: f0cfd514da8e7d3438fdc0e8dd613bb9, type: 3}
+  - {fileID: 21300000, guid: ed7ae85f41b05a24a9ac4f18501d298a, type: 3}
+  - {fileID: 21300000, guid: e35f9cbd298561f499d23a2e7a9f3fe5, type: 3}
+  - {fileID: 21300000, guid: 4d45523450ab4984486a6c23d4877d09, type: 3}
+  - {fileID: 21300000, guid: 6d75cb39c861d6b47841c6549850452b, type: 3}
+  - {fileID: 21300000, guid: 6924eb115fabc73469ec6fe34831bbd9, type: 3}
+  - {fileID: 21300000, guid: 53712742527f6e0428257366f07aee66, type: 3}
+  - {fileID: 21300000, guid: 8bd78b7158e3f734b92fbb584d4bb2c3, type: 3}
+  - {fileID: 21300000, guid: b7b3c9a7c04bdd540aa0f080955e8519, type: 3}
+  - {fileID: 21300000, guid: 558945084002a1843a70e363f0730b3f, type: 3}
+  - {fileID: 21300000, guid: b7b11d4cfa843fd419a638a7902ffbab, type: 3}
+  message: Cek Suhu Sebelum Masuk/Keluar Rumah
+  completedImage: {fileID: 21300000, guid: c27e8aba9957d8442a5c5970dff225b7, type: 3}
